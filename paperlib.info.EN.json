@@ -2,5 +2,5 @@
   "id": "1704135723977",
   "title": "Test Notification",
   "version": ">= 2.2.8",
-  "content": "./paperlib.content.md"
+  "content": "./paperlib.content.EN.md"
 }
